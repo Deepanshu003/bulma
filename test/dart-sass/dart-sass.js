@@ -11,7 +11,7 @@ fs.mkdir(DART_BASE_PATH, { recursive: true }, (err) => {
 
 const exportDartCSS = (filepath, options) => {
   utils.exportCSS(sass, fs, DART_BASE_PATH, filepath, options)
-}
+   }
 
 // Full import
 

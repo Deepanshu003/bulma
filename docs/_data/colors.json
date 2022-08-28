@@ -24,11 +24,13 @@
       "id":"grey-dark",
       "name":"Grey dark",
       "value": "hsl(0, 0%, 29%)"
+       "value": "hsl(211, 12%, 48%)"
     },
     {
       "id":"grey",
       "name":"Grey",
       "value": "hsl(0, 0%, 48%)"
+      "value": "hsl((207, 20%, 91%)"
     },
     {
       "id":"grey-light",
@@ -64,6 +66,7 @@
       "id":"yellow",
       "name":"Yellow",
       "value": "hsl(48, 100%, 67%)"
+      "value": "hsl((60, 100%, 81%)"
     },
     {
       "id":"green",
